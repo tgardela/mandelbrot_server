@@ -1,0 +1,23 @@
+﻿Rysowanie mandellbrota:
+	
+	https://rosettacode.org/wiki/Mandelbrot_set#Go
+
+Wrzucanie obrazkow na strone:
+
+	http://www.sanarias.com/blog/1214PlayingwithimagesinHTTPresponseingolang
+
+redirrect:
+
+	https://gist.github.com/hSATAC/5343225
+
+endpoint:
+
+	http://stackoverflow.com/questions/25600521/issue-with-accessing-get-parameters-net-http-in-golang
+
+handler test:
+
+	https://elithrar.github.io/article/testing-http-handlers-go/
+
+problem z "/" na końcu url:
+
+	http://www.alexedwards.net/blog/a-recap-of-request-handling
